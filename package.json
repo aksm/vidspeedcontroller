@@ -1,0 +1,12 @@
+{
+  "name": "vidspeedcontroller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aksm/vidspeedcontroller.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
